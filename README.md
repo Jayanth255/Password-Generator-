@@ -19,4 +19,4 @@ python password_generator.py
 3. Copy and use your secure passwords!
 
 ## Author
-Your Name — github.com/yourusername
+Jayanth C Naidu — github.com/Jayanth255
